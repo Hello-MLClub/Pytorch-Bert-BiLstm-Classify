@@ -1,2 +1,2 @@
-# Pytorch-Bert-BiLstm-Classify
-Pytorch Bert+BiLstm文本分类
+# PytorchBertBiLstmClassify
+Pytorch Bert+BiLstm二分类
